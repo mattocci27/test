@@ -1,0 +1,3 @@
+[submodule "assets/r-containers"]
+	path = assets/r-containers
+	url = https://github.com/mattocci27/r-containers.git
